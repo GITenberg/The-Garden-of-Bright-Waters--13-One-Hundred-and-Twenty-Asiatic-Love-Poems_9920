@@ -1,0 +1,27 @@
+_repo: The-Garden-of-Bright-Waters--13-One-Hundred-and-Twenty-Asiatic-Love-Poems_9920
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mathers, E. Powys (Edward Powys)
+    alias: Mathers, Edward Powys
+    birthdate: 1892
+    deathdate: 1939
+    gutenberg_agent_id: '3204'
+    url: http://www.gutenberg.org/2009/agents/3204
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Powys_Mathers
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love poetry'
+- !lcsh 'Oriental poetry -- Translations into English'
+- !lcc 'PJ'
+- GITenberg
+title: "The Garden of Bright Waters\r\nOne Hundred and Twenty Asiatic Love Poems"
+url: http://www.gutenberg.org/ebooks/9920
